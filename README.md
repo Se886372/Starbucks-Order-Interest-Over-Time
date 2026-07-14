@@ -3,6 +3,9 @@ This repository compares 8 different Starbucks drink order and their relative Go
 
 
 1. To access the Google Collab Notebook, click on Starbucks_Times_Series_Data.ipynb
-2. Click Google Collab
+2. Click Open in Colab
+3. Run the three code cells
+
+4. Use the vertical sliders below the main graph to set a date-range for the time-series graph. 
 
 <img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/4ac637e7-c4b7-41be-a862-ff7efbcc46cc" />
