@@ -1,11 +1,12 @@
-# Starbucks-Order-Interest-Over-Time
-This repository compares 8 different Starbucks drink order and their relative Google search interest over time. The purpose of this repository is to provide an example of time-series analysis with proper documentation is GitHub and Google Collab. 
+# ☕ Starbucks Order Interest Over Time 📈
 
+This repository compares the Google search interest of **eight popular Starbucks drinks** over time using **time-series analysis**. The project demonstrates how trends in consumer interest change over time and serves as an example of a well-documented data analytics project built with **Google Colab** and **GitHub**. It highlights how **data analytics** and **business intelligence** can be used to uncover patterns in customer behavior, monitor changing preferences, and support data-driven decision-making. 📊💡
 
-1. To access the Google Collab Notebook, click on Starbucks_Times_Series_Data.ipynb
-2. Click Open in Colab
-3. Run the three code cells
+## 🚀 Getting Started
 
-4. Use the vertical sliders below the main graph to set a date-range for the time-series graph. 
+1. Open **`Starbucks_Time_Series_Data.ipynb`**.
+2. Click **Open in Colab**.
+3. Run the three code cells. ▶️
+4. Use the **vertical sliders** beneath the main graph to select a custom date range and explore changes in search interest over time. 📅🔍
 
 <img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/4ac637e7-c4b7-41be-a862-ff7efbcc46cc" />
